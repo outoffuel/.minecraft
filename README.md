@@ -22,5 +22,8 @@ Edit installation <br>
 ### 5. run minecraft
 ### 6. install mods,saves under game directory you created before
 </details>
+
 ### backup to mega.nz every 30mins
-    backup 'D:\game\.minecraft' /.minecraft --period="0 30 * * * *" --num-backups=2
+```
+backup 'D:\game\.minecraft' /.minecraft --period="0 30 * * * *" --num-backups=2
+```
